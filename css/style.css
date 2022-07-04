@@ -15,5 +15,9 @@ body{
 #display{
     font-weight: bold;
     font-size: 15rem;
-    
+
+}
+#quest-number{
+    font-weight: bold;
+    font-size: 4rem;
 }
